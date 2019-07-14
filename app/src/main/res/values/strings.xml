@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Formulario de contactos</string>
+    <string name="titulo_formulario">Formulario de contactos</string>
+    <string name="form_username">Nombre completo</string>
+    <string name="form_telefono">Telefono</string>
+    <string name="form_email">E-mail</string>
+    <string name="form_descripcionContacto">Descripcion del contacto</string>
+    <string name="boton">Continuar</string>
+    <string name="confirmarDatos">Confirmar datos</string>
+    <string name="nombreQuemado">Santiago Cardozo Quitian</string>
+    <string name="fechaQuemada">15/05/1995</string>
+    <string name="telefonoQuemado">3212217848</string>
+    <string name="emailQuemado">scardozoq@uqvirtual.edu.co</string>
+    <string name="descripcionQuemada">Conocí a Santiago cuando le dije que lo admiraba. Al principio aunque era algo frío y torpe, intentaba conocerme y tratar de hacer las cosas mas faciles. A veces lo logró, otras veces no tanto. Y odiaba mis estupideces. Pero ayer creo que se convirtió en una persona diferente. Como si hubiera descubierto algo que lo hizo valorarme mucho mas.</string>
+    <string name="nombreLabel">Nombre</string>
+    <string name="fechaLabel">Fecha</string>
+    <string name="telefonoLabel">Telefono</string>
+    <string name="emailLabel">Email</string>
+    <string name="descripcionLabel">Descripcion</string>
+    <string name="editarDatosButton">Editar datos</string>
+</resources>
